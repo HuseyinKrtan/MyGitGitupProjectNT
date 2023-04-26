@@ -19,5 +19,8 @@ public class AtmProject {
         System.out.println("bir kısım kodlar");
         //hsyn2
 
+        System.out.println();
+        //hsyn3
+
     }
 }
