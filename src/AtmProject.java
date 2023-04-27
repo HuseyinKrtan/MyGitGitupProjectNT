@@ -23,6 +23,7 @@ public class AtmProject {
         //hsyn3
         System.out.println();
         //localde degişiklik yaptim
+        //remotta degişiklik yaptım
 
     }
 }
