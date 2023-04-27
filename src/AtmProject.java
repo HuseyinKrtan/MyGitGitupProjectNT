@@ -22,6 +22,7 @@ public class AtmProject {
         System.out.println();
         //hsyn3
         System.out.println();
+        //localde degişiklik yaptim
 
     }
 }
